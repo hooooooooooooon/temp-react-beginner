@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/temp-react-beginner/static/css/main.6683479f.css",
-    "main.js": "/temp-react-beginner/static/js/main.8161dcea.js",
+    "main.js": "/temp-react-beginner/static/js/main.af1602c2.js",
     "index.html": "/temp-react-beginner/index.html",
     "main.6683479f.css.map": "/temp-react-beginner/static/css/main.6683479f.css.map",
-    "main.8161dcea.js.map": "/temp-react-beginner/static/js/main.8161dcea.js.map"
+    "main.af1602c2.js.map": "/temp-react-beginner/static/js/main.af1602c2.js.map"
   },
   "entrypoints": [
     "static/css/main.6683479f.css",
-    "static/js/main.8161dcea.js"
+    "static/js/main.af1602c2.js"
   ]
 }
